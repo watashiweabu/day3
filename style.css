@@ -1,3 +1,7 @@
 header :hover {
   color: aqua !important;
 }
+
+h2 {
+  color: red;
+}
